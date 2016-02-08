@@ -226,29 +226,29 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {144132967,139763200,0,tonumber(our_id)},--Sudo users
+    sudo_users = {144132967,139763200,107264463,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[Thr Great Satan
 
-https://github.com/SEEDTEAM/TeleSeed
+
+https://github.com/satanevil/The-Great-Satan
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@TnT-BoY1
+@Hell_admin1
+@BI_MOKH021
+@me1928
 
 Special thanks to
-awkward_potato
+seedteam
 Siyanew
 topkecleon
 Vamptacus
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+
+
+
 ]],
     help_text_realm = [[
 Realm Commands:
